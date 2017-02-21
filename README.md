@@ -9,7 +9,8 @@ Log errors, info or messages in the Google Chrome and Firefox Web Console. It us
 
 ## Usage
 
-```// Normal debug
+```
+// Normal debug
 _debug($var, 'log');
 
 // Info message
@@ -29,4 +30,5 @@ _debug('New group', 'group');
 _debug($var1, 'info');
 _debug($var2, 'error');
 // ...
-_debug('', 'groupEnd');```
+_debug('', 'groupEnd');
+```

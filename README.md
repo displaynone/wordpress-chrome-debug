@@ -23,7 +23,12 @@ _debug($var, 'warn');
 _debug($var, 'error');
 
 // Message in table format
-_debug(array('idx_1' => 'val_1', 'idx_2' => 'val_2', 'idx_3' => 'val_3'), 'table');
+_debug(
+  array(
+    'idx_1' => 'val_1',
+    'idx_2' => 'val_2',
+    'idx_3' => 'val_3'
+  ), 'table');
 
 // Groups
 _debug('New group', 'group');

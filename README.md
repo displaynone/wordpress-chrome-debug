@@ -9,7 +9,7 @@ Log errors, info or messages in the Google Chrome and Firefox Web Console. It us
 
 ## Usage
 
-```
+```php
 // Normal debug
 _debug($var, 'log');
 

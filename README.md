@@ -1,4 +1,4 @@
-# WordPress Chrome Debug Plugin
+# WordPress Web Console Debugger
 
 Log errors, info or messages in the Google Chrome and Firefox Web Console. It uses [chromephp](https://github.com/ccampbell/chromephp) library by [Craig Campbell](https://github.com/ccampbell)
 

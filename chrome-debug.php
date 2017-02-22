@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Chrome debug
+Plugin Name: Web Console Debugger
 Description: Display debug messages in Google Chrome Debug and Firefox Web Console
 Version: 0.1
 Author: Luis Sacristán
@@ -14,7 +14,7 @@ include_once 'chromephp/ChromePhp.php';
 
 /**
  * Logs a message in the Chrome console
- * 
+ *
  * @param string $message Text to log
  * @param string $type 'info', 'warn', 'error', 'info', 'table', 'group', 'groupEnd'
  */

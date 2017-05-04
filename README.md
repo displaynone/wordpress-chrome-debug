@@ -37,3 +37,4 @@ _debug($var2, 'error');
 // ...
 _debug('', 'groupEnd');
 ```
+
